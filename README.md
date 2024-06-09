@@ -1,2 +1,3 @@
-# SDEV200_Exercise9.9
-Software Development with Java | Module 1 | Exercise 9.9
+SDEV200_Exercise9.9
+- N-sided regular polygon test program
+
